@@ -10,6 +10,9 @@
   font: inherit;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  /* lists */
+  list-style: none;
 }
 
 img {
